@@ -1,0 +1,1 @@
+# -AVX-FMA-com-Threads-para-opera-o-com-matrizes
